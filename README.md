@@ -6,23 +6,12 @@ Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 <img src="https://komarev.com/ghpvc/?username=anandshukla2212&color=brightgreen">
 </p>
 
-<h3 align="center">🌍 Web Developer | Computer Science Enthusiast</h3>
-
-<p align="center">
-<a href="https://anandshukla2212.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO%20🚀-CLICK%20HERE-ff5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="60">
-</a>
-</p>
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=anandshukla2212&color=brightgreen">
-</p>
-
 <h3 align="center">🌍 Web Developer | Creative Portfolio Designer</h3>
 
 ---
 
 <p align="center">
-<a href="https://anandshukla2212.netlify.app/">
+<a href="https://anandshukla2212.netlify.app/" target="_blank">
 
 <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO%20🚀-CLICK%20HERE-ff5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="65">
 
@@ -33,10 +22,10 @@ Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 
 ## 👨‍💻 About Me
 
-* 💻 Passionate **Web Developer**
-* 🚀 I love creating **beautiful websites**
-* 🌱 Currently learning **Advanced JavaScript & UI Design**
-* 🌍 From **India**
+- 💻 Passionate **Web Developer**
+- 🚀 I love creating **beautiful websites**
+- 🌱 Currently learning **Advanced JavaScript & UI Design**
+- 🌍 From **India**
 
 ---
 
@@ -92,16 +81,16 @@ Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 
 ## 🌱 Currently Learning
 
-* Web Development
-* UI/UX Design
-* JavaScript
-* Creative Portfolio Design
+- Web Development  
+- UI/UX Design  
+- JavaScript  
+- Creative Portfolio Design  
 
 ---
 
 ## 🌐 My Portfolio
 
-🔗 Visit My Website
+🔗 Visit My Website  
 👉 https://anandshukla2212.netlify.app/
 
 ---
