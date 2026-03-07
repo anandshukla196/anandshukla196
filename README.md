@@ -1,7 +1,17 @@
-![Anand Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=260\&section=header\&text=ANAND%20SHUKLA\&fontSize=55\&fontColor=ffffff\&animation=fadeIn)
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45"> I'm Anand Shukla
+</h1>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=anandshukla2212&color=brightgreen">
+</p>
+
+<h3 align="center">🌍 Web Developer | Computer Science Enthusiast</h3>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2070&auto=format&fit=crop" width="250">
+<a href="https://anandshukla2212.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO%20🚀-CLICK%20HERE-ff5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="60">
+</a>
 </p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=anandshukla2212&color=brightgreen">
