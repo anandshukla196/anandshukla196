@@ -1,7 +1,8 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=ANAND%20SHUKLA&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
+<p align="center">
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2070&auto=format&fit=crop" width="100%">
+</p>
 </p>
 
 <h2 align="center">🌍 Web Developer | Creative Designer | Digital Creator</h2>
