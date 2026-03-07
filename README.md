@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45"> I'm Anand Shukla
 </h1>
-
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd3QIRhbVQQ_I-0ziygs7wrezJ-dKH5J99aA&s" width="300">
+</p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=anandshukla2212&color=brightgreen">
 </p>
