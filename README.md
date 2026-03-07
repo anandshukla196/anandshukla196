@@ -1,27 +1,43 @@
 <h1 align="center">👋 Hello, I'm Anand Shukla</h1>
 
-<h3 align="center">🚀 Web Developer | Portfolio Designer | Tech Enthusiast</h3>
+<h3 align="center">🌍 Web Developer | Creative Designer | Tech Explorer</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2070&auto=format&fit=crop" width="100%">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🌎 Welcome To My Developer World
 
-🎓 Passionate Web Developer from India
-💡 I love building creative websites and UI designs
-🚀 Always learning new technologies
+<p align="center">
+<img src="https://cdn.pixabay.com/animation/2023/02/20/12/31/12-31-43-138_512.gif" width="250">
+</p>
 
-* 🔭 Currently working on **Web Development Projects**
-* 🌱 Learning **JavaScript, UI/UX Design**
-* 🌐 My Portfolio
-  👉 https://anandshukla2212.netlify.app/
+💻 I am **Anand Shukla**, a passionate **Web Developer from India**.
+🚀 I love creating beautiful websites, creative UI and digital experiences.
 
 ---
 
-## 🛠 Skills
+# 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://anandshukla2212.netlify.app/">
+
+<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-CLICK%20HERE-blue?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000">
+
+</a>
+
+</p>
+
+<p align="center">
+⭐ Explore my projects, designs and web creations ⭐
+</p>
+
+---
+
+# 🛠 My Skills
 
 <p align="center">
 
@@ -31,84 +47,52 @@
 
 ---
 
-## 🚀 My Projects
-
-| Project                      | Link                              |
-| ---------------------------- | --------------------------------- |
-| 📄 Resume Generator          | https://anandshukla2212.github.io |
-| 📱 Phone UI Project          | https://anandshukla2212.github.io |
-| 💻 Digital Marketing Website | https://anandshukla2212.github.io |
-
----
-
-## 🌐 My Portfolio
+# 🌍 Earth From Space
 
 <p align="center">
 
-<a href="https://anandshukla2212.netlify.app/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-orange?style=for-the-badge&logo=google-chrome"/>
-</a>
+<img src="https://cdn.pixabay.com/photo/2011/12/14/12/11/earth-11015_1280.jpg" width="500">
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anandshukla2212&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anandshukla2212&show_icons=true&theme=tokyonight">
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=anandshukla2212&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=anandshukla2212&theme=tokyonight">
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 👁 Visitor Counter
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anandshukla2212&theme=onedark"/>
-
-</p>
-
----
-
-## 👁 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anandshukla2212&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/anandshukla2212">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://anandshukla2212.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=anandshukla2212&label=Visitors&color=blue&style=for-the-badge">
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer"/>
+
+🌎 **Building the Digital World One Website at a Time**
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=120&section=footer"/>
 </p>
