@@ -1,7 +1,8 @@
 ![Anand Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=260\&section=header\&text=ANAND%20SHUKLA\&fontSize=55\&fontColor=ffffff\&animation=fadeIn)
 
-<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2070&auto=format&fit=crop" width="100%">
-
+<p align="center">
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2070&auto=format&fit=crop" width="250">
+</p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=anandshukla2212&color=brightgreen">
 </p>
