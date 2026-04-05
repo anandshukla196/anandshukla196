@@ -1,80 +1,66 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Anand%20Shukla&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ANAND%20SHUKLA&fontSize=80&fontAlignY=40" />
 </p>
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"> I'm a Full-Stack Developer
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER-000?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/DESIGNER-000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOUNDER-000?style=for-the-badge&logo=rocket&logoColor=orange" />
+</p>
+
+---
+
+### ⚡ At a Glance
 
 <p align="center">
-  <a href="https://anandshukla2212.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20PORTFOLIO-CLICK%20HERE-ff5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandshukla2212&layout=compact&theme=vision-friendly-dark&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anandshukla2212&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🛠 Digital Toolkit
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,postman,figma,solidity,github" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Quick Overview
+### 🔭 Current Ventures
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Current Focus</h4>
-      <ul>
-        <li>Building <b>DILICART</b> (Multi-service Super App)</li>
-        <li>Specializing in <b>MERN Stack</b> & <b>UI/UX</b></li>
-        <li>Founder at <b>FELICITY RUDRA✘GARG</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌱 Learning Path</h4>
-      <ul>
-        <li>Advanced JavaScript Design Patterns</li>
-        <li>Generative AI & Prompt Engineering</li>
-        <li>Blockchain & Carbon Tracking</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Project | Status | Description |
+| :--- | :---: | :--- |
+| **DILICART** | 🏗️ | Multi-service ecosystem and super-app. |
+| **FELICITY RUDRA✘GARG** | 🚀 | Digital branding and web solution venture. |
+| **EcoTrack** | ✅ | Blockchain-based carbon footprint tracking. |
 
 ---
 
-### 🛠 Tech Stack
+### 🌙 Coding Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode,figma,solidity" />
+  <img src="https://streak-stats.demolab.com?user=anandshukla2212&theme=vision-friendly-dark&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandshukla2212&theme=dracula&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📊 GitHub Dashboard
+### 📬 Connect with me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandshukla2212&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandshukla2212&layout=compact&theme=tokyonight" width="300" />
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://anandshukla2212.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anandshukla2212&theme=tokyonight" width="400" />
-  <img src="https://github-profile-trophy.vercel.app/?username=anandshukla2212&theme=tokyonight&no-bg=true" width="300" />
-</p>
-
----
-
-### 📈 Activity Graph & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandshukla2212&theme=react-dark" width="100%" />
-</p>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/anandshukla2212/anandshukla2212/output/github-snake-dark.svg" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer" />
